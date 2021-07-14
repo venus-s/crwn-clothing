@@ -1,6 +1,6 @@
 import Directory from '../../components/directory-menu/directory-menu.component';
 
-import './homepage.styles.scss';
+import './homepage.component.scss';
 
 const HomePage = () => (
   <div className="homepage">
